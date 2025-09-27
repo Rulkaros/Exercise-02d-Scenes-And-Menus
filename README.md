@@ -1,22 +1,14 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
-Exercise for MSCH-C220
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
-
+# Project Name
+Project02-SpaceShooter
+2025/09/27
+Description
 ## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
+Implement a variety of enemies, each with their own behavior
 ## References
-None
-
+https://github.com/BL-MSCH-C220-SP24/Project02-SpaceShooter
 ## Future Development
-None
-
+Add in-game menu
 ## Created by
 Zhoutong Li
